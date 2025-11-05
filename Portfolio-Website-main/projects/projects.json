@@ -1,0 +1,74 @@
+[
+  {
+    "name": "NotyStack Android",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "SPPU Engg Prep",
+    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Project 1",
+    "desc": "[VERSION 1] Thiết kế website bán nguyên liệu ADS tự động",
+    "image": "https://codebay.vn/upload/product/productFGV9A4.png",
+    "category": "mern",
+    "links": {
+      "view": "https://codebay.vn/upload/product/productFGV9A4.png",
+      "code": "https://clone.codebay.vn/"
+    }
+  },
+  {
+    "name": "Project 2",
+    "desc": "[VERSION 1] Thiết kế website bán Cloudvps tự động qua API",
+    "image": "https://codebay.vn/upload/product/product2M10S9.png",
+    "category": "mern",
+    "links": {
+      "view": "https://codebay.vn/upload/product/product2M10S9.png",
+      "code": "https://cloudsieure.com/"
+    }
+  },
+  
+  
+  {
+    "name": "Project 3",
+    "desc": "Thiết kế website đọc truyện online",
+    "image": "https://codebay.vn/upload/product/product2M10S9.png",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
